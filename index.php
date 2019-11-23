@@ -137,7 +137,7 @@ and open the template in the editor.
                                     Por do Sol: <span id="porDosol"></span> 
 
                                     <span id="situacao6"> </span>
-                                    <img src="img/icones/PorDoSol.png" width="60"/>
+                                    <img src="img/icones/porDoSol.png" width="60"/>
                                 </p>
                                 </center>
 
