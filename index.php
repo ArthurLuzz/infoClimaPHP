@@ -46,6 +46,10 @@ and open the template in the editor.
         <meta property="og:image:height" content="120" />
         <meta property="fb:app_id" content="" />
         
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:description" content="Site de informações climáticas de Brusque-SC. Desenvolvido por Arthur Vinicius da Luz." />
+        <meta name="twitter:title" content="Informaçâo do clima AVL" />
+        
     </head>
     <body>
         <div class="row">
