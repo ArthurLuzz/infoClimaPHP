@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>Informaçâo do clima AVL</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -15,8 +15,37 @@ and open the template in the editor.
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-
         <script src="js/clima.js"></script>
+        
+        <meta NAME="DESCRIPTION" CONTENT="Site de informações climáticas de Brusque-SC. Desenvolvido por Arthur Vinicius da Luz."/>
+        <meta NAME="ABSTRACT" CONTENT="Informações Climátivas"/>
+        <meta name="keywords" content="Clima, Informações, Climático, temperatura, umidade, temperatura em Brusque, 
+              tempo em Brusque, clima Brusque, umidade em Brusque, tempo para Brusque, tempo para Santa Catarina, 
+              Informação do tempo para Brusque, O municipio, jornal hoje, brusque, Brusque clima, tempo para brusque hoje,
+              Arthur Vinicius da Luz, AVL"/>
+        
+        <meta NAME="title" CONTENT="Informaçâo do clima AVL" />
+        <meta NAME="identifier-url" content="https://arthur-clima.herokuapp.com" />
+        <meta NAME="author" content="Arthur Vinicius da Luz" />
+        <meta NAME="ROBOTS" CONTENT="All" />
+        <meta NAME="RATING" CONTENT="general" />
+        <meta NAME="DISTRIBUTION" CONTENT="global" />
+        <meta NAME="LANGUAGE" CONTENT="pt-br" />
+        <meta name="content-language" content="portuguese" />
+        <meta name="doc-class" content="Completed" /> 
+        <meta name="reply-to" content="arthur_luz@estudante.sc.senai.br"/>
+        
+        <meta property="og:url" content="https://arthur-clima.herokuapp.com" />
+        <meta property="og:locale" content="pt_BR" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Informaçâo do clima AVL" />
+        <meta property="og:title" content="Informaçâo do clima AVL" />
+        <meta property="og:description" content="Site de informações climáticas de Brusque-SC. Desenvolvido por Arthur Vinicius da Luz." />
+        <meta property="og:image" content="https://arthur-clima.herokuapp.com/img/climaFrente.jpg" />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:height" content="120" />
+        <meta property="fb:app_id" content="" />
+        
     </head>
     <body>
         <div class="row">
